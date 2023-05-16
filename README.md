@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This tool allow to generate a tree from a flat list of unsorted nodes like the
+This tool allows to generate a tree from a flat list of unsorted nodes like the
 following:
 
 ```json
