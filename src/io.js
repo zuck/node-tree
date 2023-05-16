@@ -19,7 +19,7 @@ function printHelp() {
     console.log('\nRun it as:')
     console.log('$ npm start <input_filename> [<output_filename>]')
     console.log('\nExample:')
-    console.log('$ npm start test/inputs/nodes.json out.json')
+    console.log('$ npm start test/inputs/t1.json out.json')
 }
 
 module.exports = {

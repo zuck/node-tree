@@ -1,0 +1,24 @@
+[
+  {
+    "nodeId": "1",
+    "name": "One",
+    "parentId": null,
+    "previousSiblingId": null,
+    "children": [
+      {
+        "nodeId": "3",
+        "name": "Three",
+        "parentId": "1",
+        "previousSiblingId": null,
+        "children": []
+      },
+      {
+        "nodeId": "2",
+        "name": "Two",
+        "parentId": "1",
+        "previousSiblingId": "3",
+        "children": []
+      }
+    ]
+  }
+]
